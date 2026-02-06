@@ -27,6 +27,8 @@ dotnet add package Planshieldon.WealthShield.Core
 ## How to use
 - Review content in /content and iterate.
 - Use this scaffold as the canonical copy for static site generation or direct hosting (GitHub Pages or any static host).
+dotnet pack -c Release
 
 ## Contact
 - Owner: webmannoffice-sketch
+dotnet pack -c Release
