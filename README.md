@@ -3,7 +3,9 @@
 Planshieldon — "Unique, Yet Unusually Regular."
 
 This repository holds the website copy, legal-friendly terms, technical whitepaper excerpts, email sequences, support-bot conversation specs, and a simple static landing page scaffold.
-
+🧩 .NET Integration
+Developers can now integrate Planshieldon logic directly into commercial office machinery using our official NuGet package:
+dotnet add package Planshieldon.WealthShield.Core
 ## Structure
 - /content
   - hero.md
